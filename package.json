@@ -1,0 +1,22 @@
+{
+  "name": "studyjs",
+  "version": "1.0.0",
+  "description": "자바스크립트의 정수형 : 9천조까지 / 54bit 사용 숫자 표현",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wnghdcjfe/studyJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wnghdcjfe/studyJS/issues"
+  },
+  "homepage": "https://github.com/wnghdcjfe/studyJS#readme",
+  "dependencies": {
+    "sinon": "^9.0.2"
+  }
+}
