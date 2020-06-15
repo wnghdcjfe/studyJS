@@ -1,12 +1,12 @@
 # studyJS
-자바스크립트 책 공부
+자바스크립트의 정수형 : 9천조까지 / 54bit 사용 숫자 표현 
 
-Object.freeze
-9천조까지 / 54bit 사용 숫자 표현
-numerator : 분자
+## Object.freeze 
 
-denominator : 분모
+## ECMA표준
 
-ECMA표준
+## 유리수 표현 코드 실행해보기
 
-유리수 표현 코드 실행해보기
+## 팩토리패턴 구현
+
+## 샌드박스패턴 구현
